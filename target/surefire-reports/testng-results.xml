@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="493" started-at="2016-09-03T03:31:21Z" finished-at="2016-09-03T03:31:21Z">
+    <groups>
+    </groups>
+    <test name="Test4" duration-ms="493" started-at="2016-09-03T03:31:21Z" finished-at="2016-09-03T03:31:21Z">
+      <class name="Testcases.VerifyHomePagewithvalidpwdTest2">
+        <test-method status="PASS" signature="startup()[pri:0, instance:Testcases.VerifyHomePagewithvalidpwdTest2@6442b0a6]" name="startup" is-config="true" duration-ms="23" started-at="2016-09-03T09:01:21Z" finished-at="2016-09-03T09:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="justprint()[pri:0, instance:Testcases.VerifyHomePagewithvalidpwdTest2@6442b0a6]" name="justprint" duration-ms="3" started-at="2016-09-03T09:01:21Z" finished-at="2016-09-03T09:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- justprint -->
+        <test-method status="PASS" signature="closeDown(org.testng.ITestResult)[pri:0, instance:Testcases.VerifyHomePagewithvalidpwdTest2@6442b0a6]" name="closeDown" is-config="true" duration-ms="463" started-at="2016-09-03T09:01:21Z" finished-at="2016-09-03T09:01:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=justprint status=SUCCESS method=VerifyHomePagewithvalidpwdTest2.justprint()[pri:0, instance:Testcases.VerifyHomePagewithvalidpwdTest2@6442b0a6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- Testcases.VerifyHomePagewithvalidpwdTest2 -->
+    </test> <!-- Test4 -->
+  </suite> <!-- Suite -->
+  <suite name="adswebverification" duration-ms="2430" started-at="2016-09-03T03:31:17Z" finished-at="2016-09-03T03:31:20Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="2430" started-at="2016-09-03T03:31:17Z" finished-at="2016-09-03T03:31:20Z">
+      <class name="Testcases.VerifyHomePage">
+        <test-method status="PASS" signature="startup()[pri:0, instance:Testcases.VerifyHomePage@d041cf]" name="startup" is-config="true" duration-ms="650" started-at="2016-09-03T09:01:18Z" finished-at="2016-09-03T09:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="justprint()[pri:0, instance:Testcases.VerifyHomePage@d041cf]" name="justprint" duration-ms="10" started-at="2016-09-03T09:01:18Z" finished-at="2016-09-03T09:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- justprint -->
+        <test-method status="PASS" signature="closeDown(org.testng.ITestResult)[pri:0, instance:Testcases.VerifyHomePage@d041cf]" name="closeDown" is-config="true" duration-ms="1717" started-at="2016-09-03T09:01:18Z" finished-at="2016-09-03T09:01:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=justprint status=SUCCESS method=VerifyHomePage.justprint()[pri:0, instance:Testcases.VerifyHomePage@d041cf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- Testcases.VerifyHomePage -->
+    </test> <!-- Test1 -->
+  </suite> <!-- adswebverification -->
+  <suite name="adswebveri" duration-ms="743" started-at="2016-09-03T03:31:20Z" finished-at="2016-09-03T03:31:21Z">
+    <groups>
+    </groups>
+    <test name="Test3" duration-ms="743" started-at="2016-09-03T03:31:20Z" finished-at="2016-09-03T03:31:21Z">
+      <class name="Testcases.VerifyHomePagewithvalidpwdtest1">
+        <test-method status="PASS" signature="startup()[pri:0, instance:Testcases.VerifyHomePagewithvalidpwdtest1@2d6e8792]" name="startup" is-config="true" duration-ms="10" started-at="2016-09-03T09:01:20Z" finished-at="2016-09-03T09:01:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="justprint()[pri:0, instance:Testcases.VerifyHomePagewithvalidpwdtest1@2d6e8792]" name="justprint" duration-ms="10" started-at="2016-09-03T09:01:20Z" finished-at="2016-09-03T09:01:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- justprint -->
+        <test-method status="PASS" signature="closeDown(org.testng.ITestResult)[pri:0, instance:Testcases.VerifyHomePagewithvalidpwdtest1@2d6e8792]" name="closeDown" is-config="true" duration-ms="692" started-at="2016-09-03T09:01:20Z" finished-at="2016-09-03T09:01:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=justprint status=SUCCESS method=VerifyHomePagewithvalidpwdtest1.justprint()[pri:0, instance:Testcases.VerifyHomePagewithvalidpwdtest1@2d6e8792] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- Testcases.VerifyHomePagewithvalidpwdtest1 -->
+    </test> <!-- Test3 -->
+  </suite> <!-- adswebveri -->
+  <suite name="addwebtest2" duration-ms="141" started-at="2016-09-03T03:31:20Z" finished-at="2016-09-03T03:31:20Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="141" started-at="2016-09-03T03:31:20Z" finished-at="2016-09-03T03:31:20Z">
+      <class name="Testcases.VerifyHomePagewithvalidpwd">
+        <test-method status="PASS" signature="startup()[pri:0, instance:Testcases.VerifyHomePagewithvalidpwd@17c68925]" name="startup" is-config="true" duration-ms="10" started-at="2016-09-03T09:01:20Z" finished-at="2016-09-03T09:01:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="FAIL" signature="justprint()[pri:0, instance:Testcases.VerifyHomePagewithvalidpwd@17c68925]" name="justprint" duration-ms="10" started-at="2016-09-03T09:01:20Z" finished-at="2016-09-03T09:01:20Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [5] but found [3]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [5] but found [3]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at Testcases.VerifyHomePagewithvalidpwd.justprint(VerifyHomePagewithvalidpwd.java:48)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- justprint -->
+        <test-method status="FAIL" signature="closeDown(org.testng.ITestResult)[pri:0, instance:Testcases.VerifyHomePagewithvalidpwd@17c68925]" name="closeDown" is-config="true" duration-ms="0" started-at="2016-09-03T09:01:20Z" finished-at="2016-09-03T09:01:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=justprint status=FAILURE method=VerifyHomePagewithvalidpwd.justprint()[pri:0, instance:Testcases.VerifyHomePagewithvalidpwd@17c68925] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at Utility.helper.CaptureScreenShot(helper.java:17)
+	at Testcases.VerifyHomePagewithvalidpwd.closeDown(VerifyHomePagewithvalidpwd.java:60)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:786)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- Testcases.VerifyHomePagewithvalidpwd -->
+    </test> <!-- Test2 -->
+  </suite> <!-- addwebtest2 -->
+</testng-results>

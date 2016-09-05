@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 8.024 sec <<< FAILURE! - in TestSuite
+justprint(Testcases.VerifyHomePagewithvalidpwd)  Time elapsed: 0.041 sec  <<< FAILURE!
+java.lang.AssertionError: expected [5] but found [3]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at Testcases.VerifyHomePagewithvalidpwd.justprint(VerifyHomePagewithvalidpwd.java:48)
+
+closeDown(Testcases.VerifyHomePagewithvalidpwd)  Time elapsed: 0.121 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at Utility.helper.CaptureScreenShot(helper.java:17)
+	at Testcases.VerifyHomePagewithvalidpwd.closeDown(VerifyHomePagewithvalidpwd.java:60)
+
